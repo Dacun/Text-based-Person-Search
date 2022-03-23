@@ -5,7 +5,7 @@ In this page, we introduce CUHK-SYSU-TBPS and PRW-TBPS datasets for text-based p
 Original CUHK-SYSU and PRW datesets can be obtained from [CUHK-SYSU](https://github.com/ShuangLI59/person_search) and [PRW](http://www.liangzheng.com.cn/Project/project_prw.html). Our annotations can be downloaded with the link [CUHK-SYSU-TBPS_train](https://drive.google.com/file/d/1asgZ2DGtgN_7tl2SSjF8NySPXRwKQfjA/view?usp=sharing) & [CUHK-SYSU-TBPS_test](https://drive.google.com/file/d/17NwIcHqmp0HhY7FmN0ciUYPvqDT6hLrP/view?usp=sharing) & [PRW-TBPS_train](https://drive.google.com/file/d/1Oh3nOWQfG4UkAJsILNeW3uZV1Mggwip7/view?usp=sharing) & [PRW-TBPS_test](https://drive.google.com/file/d/1iyxa_BqXFsNSxTbHpczdypB0shNKp86c/view?usp=sharing).
 
 ## Example of datasets
-![Example of datasets](../sample.png)
+![Example of datasets](/sample.png)
 
 ## Citation
 
