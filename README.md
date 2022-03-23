@@ -8,9 +8,12 @@ Original CUHK-SYSU and PRW datesets can be obtained from [CUHK-SYSU](https://git
 
 
 ## Citation
-`@article{zhang2021text,
+
+```
+@article{zhang2021text,
   title={Text-based Person Search in Full Images via Semantic-Driven Proposal Generation},
   author={Zhang, Shizhou and Long, Duo and Gao, Yitao and Gao, Liying and Zhang, Qian and Niu, Kai and Zhang, Yanning},
   journal={arXiv preprint arXiv:2109.12965},
   year={2021}
-}`
+}
+```
