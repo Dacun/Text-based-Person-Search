@@ -7,6 +7,8 @@ Original CUHK-SYSU and PRW datesets can be obtained from [CUHK-SYSU](https://git
 ## Example of datasets
 ![Example of datasets](/sample.png)
 
+**High-frequency words and labeled person image samples in the datasets.**
+
 ## Citation
 
 ```
